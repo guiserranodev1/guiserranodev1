@@ -27,13 +27,10 @@ Estudante do 6º semestre de Ciência da Computação com formação técnica em
 
 ---
 
-## 📈 Visão Geral do GitHub
-
 <div align="left">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=guiserranodev1&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=guiserranodev1&show_icons=true&theme=github_dark&count_private=true&hide_border=true&bg_color=0D1117"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guiserranodev1&layout=compact&langs_count=5&theme=github_dark&hide_border=true&bg_color=0D1117"/>
 </div>
-
 ---
 
 ## ✉️ Contato
