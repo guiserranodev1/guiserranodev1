@@ -28,9 +28,19 @@ Estudante do 6º semestre de Ciência da Computação com formação técnica em
 ---
 
 <div align="left">
+  <!-- Stats GitHub -->
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=guiserranodev1&show_icons=true&theme=github_dark&count_private=true&hide_border=true&bg_color=0D1117"/>
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=guiserranodev1&theme=dark&hide_border=true&background=0D1117"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guiserranodev1&layout=compact&langs_count=5&theme=github_dark&hide_border=true&bg_color=0D1117"/>
 </div>
+
+---
+
+## ✨ Commit streak & Contribuições
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=guiserranodev1&theme=react-dark&area=true&hide_border=true" alt="Activity Graph"/>
+</div>
+
 ---
 
 ## ✉️ Contato
