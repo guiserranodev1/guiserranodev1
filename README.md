@@ -1,6 +1,6 @@
 # Guilherme Meireles Serrano
 
-Estudante do 6º semestre de Ciência da Computação com formação técnica em Produção Audiovisual. Tenho como foco aplicar minha capacidade de aprendizado rápido e comprometimento para criar soluções práticas, buscando sempre contribuir para a eficiência organizacional dos projetos em que eu atuo.
+Estudante do 6º semestre de Ciência da Computação com formação técnica em Produção Audiovisual. Tenho como foco aplicar minha capacidade de aprendizado rápido e comprometimento para criar soluções práticas, buscando sempre contribuir para a eficiência organizacional dos projetos em que atuo.
 
 ## 💻 Conhecimentos e Tecnologias
 
